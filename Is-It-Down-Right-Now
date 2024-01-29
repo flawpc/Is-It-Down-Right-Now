@@ -1,0 +1,1 @@
+javascript:void(location.href='https://www.isitdownrightnow.com/downorjustme.php?url=%27+encodeURI(window.location.host));
